@@ -1,6 +1,6 @@
 # Py_Library
-This is my first project in Python. (This python project used an Advance python concept this file has no error) 
-This project #Central_Library if for Storing books, Borrow books, Returning Books in this library we have one specialization whatever we have borrowed, Return &lt;== data stores in History, if any person login/logout this step also set in history and one more in this project, This project is created like a real machine which can store data for all step attained by the programmer, this project have a sound system that gives attention to programer what happening. 
+This is my first project in Python.
+This project # Central_Library if for Storing books, Borrow books, Returning Books in this library we have one specialization whatever we have borrowed, Return &lt;== data stores in History, if any person login/logout this step also set in history and one more in this project, This project is created like a real machine which can store data for all step attained by the programmer, this project have a sound system that gives attention to programer what happening. 
 
 This project has a file *( RequirePIPinstall )* in this, all the modules are used in this project are named with their updated versions Step followed by a User : 
 
