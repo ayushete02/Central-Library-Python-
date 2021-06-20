@@ -15,3 +15,138 @@
     In the forth history all the steps covered by the user this data will store in this history user can look there data by selecting this option and if the user wants to delete this data user can delete this, this data is stored in the format of users name, book name, action taken by the user (borrow, return, login/logout) this will store in a formatted document. 
 
     Thanks!!!
+
+# Demo :
+    Enter your Name (For Login): Ayush
+
+    ⩩⩩ ⁂ ⁂  Welcome To the Central Library ⁂ ⁂ ⩩⩩
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
+
+    Enter your Choice : 1
+
+    ==> Avaliable Books
+
+    Books_Code      Books Name
+
+        1100          ⨌   Coding Fundamentals
+        1101          ⨌   Careers in Tech
+        1102          ⨌   Clean Code
+        1103          ⨌   Introduction to Algorithms
+        1104          ⨌   The Art of Computer
+        1105          ⨌   Blue DSA
+        1106          ⨌   Code Complete
+        1107          ⨌   C-programing
+        1108          ⨌   Limiteness Mind
+        1109          ⨌   Race to Developer
+        1110          ⨌   Black Java
+        1111          ⨌   Ultimate Programer
+        1112          ⨌   HTML Style
+        1113          ⨌   Red progamer
+        1114          ⨌   Head First Python 3.0
+        1115          ⨌   Python doc
+    _____________________________________________________________________________________________
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
+
+    Enter your Choice : 2
+    Enter name of the Book : 1103
+
+    ==> Sorry book is not Available in the Library
+    _____________________________________________________________________________________________
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
+
+    Enter your Choice : 2
+    Enter name of the Book : Clean Code
+
+    ==> Thanks for borrowing the book "Clean Code", please keep it Safe and return within 30 Days
+    _____________________________________________________________________________________________
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
+
+    Enter your Choice : 1
+
+    ==> Avaliable Books
+
+    Books_Code      Books Name
+
+        1100          ⨌   Coding Fundamentals
+        1101          ⨌   Careers in Tech
+        1102          ⨌   Introduction to Algorithms
+        1103          ⨌   The Art of Computer
+        1104          ⨌   Blue DSA
+        1105          ⨌   Code Complete
+        1106          ⨌   C-programing
+        1107          ⨌   Limiteness Mind
+        1108          ⨌   Race to Developer
+        1109          ⨌   Black Java
+        1110          ⨌   Ultimate Programer
+        1111          ⨌   HTML Style
+        1112          ⨌   Red progamer
+        1113          ⨌   Head First Python 3.0
+        1114          ⨌   Python doc
+    _____________________________________________________________________________________________
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
+
+    Enter your Choice : 3
+    Enter name of the Book : life of python programmer
+    Thanks for Returing the book - life of python programmer
+    _____________________________________________________________________________________________
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
+
+    Enter your Choice : 1
+
+    ==> Avaliable Books
+
+    Books_Code      Books Name
+
+        1100          ⨌   Coding Fundamentals
+        1101          ⨌   Careers in Tech
+        1102          ⨌   Introduction to Algorithms
+        1103          ⨌   The Art of Computer
+        1104          ⨌   Blue DSA
+        1105          ⨌   Code Complete
+        1106          ⨌   C-programing
+        1107          ⨌   Limiteness Mind
+        1108          ⨌   Race to Developer
+        1109          ⨌   Black Java
+        1110          ⨌   Ultimate Programer
+        1111          ⨌   HTML Style
+        1112          ⨌   Red progamer
+        1113          ⨌   Head First Python 3.0
+        1114          ⨌   Python doc
+        1115          ⨌   life of python programmer
+    _____________________________________________________________________________________________
+
+                Press 1 :  Check Available Books
+                Press 2 :  Borrow Books
+                Press 3 :  Add/Return Books
+                Press 4 :  Exit Library
+                press 5 :  History
